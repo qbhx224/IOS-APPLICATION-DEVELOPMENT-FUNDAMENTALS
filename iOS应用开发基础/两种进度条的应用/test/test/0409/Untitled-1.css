@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+.all{
+	width:500px;
+	height:300px;
+	border:1px solid #F00;
+	text-align:center;
+}
+.img{border-radius:10%;}
+.header{
+	font-size:18px;
+	font-family:"微软雅黑";
+	height:40px;
+	line-height:40px;
+	border-bottom:1px dashed red;
+}
+.text p{
+	font-size:30px;
+	color:red;
+	height:24px;
+	line-height:24px;
+}
